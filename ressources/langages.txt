@@ -1,0 +1,171 @@
+EN
+play~Play
+test~Test
+lvl_builder~Level builder
+settings~Settings
+quit~Quit
+loading~Loading...
+mainmenu~Main Menu
+continue~Continue
+level~Level
+time~Time :
+restart~Restart
+score~Score :
+lifes~Lifes :
+challenge~Challenge
+s-challenge~X-CHALLENGE
+challenge_short~Classic Chall.
+s-challenge_short~Extreme Chall.
+diff~Difficulty
+hard~Advanced
+normal~Classic
+easy~Easy
+s-easy~Free
+on~On
+off~Off
+noborder~Off (Windowed without border)
+fullscreen~Fullscreen
+part_lvl~Particles level
+winSize~Window size
+auto~Auto
+default~Default
+globalvol~Global volume
+soundvol~Volume distribution
+language~Language
+languageInfo~You need to restart the game to update the language
+graphInfo~This level is not recommended, these graphics can slow down the game
+recommended~Recommended
+ok~OK
+stats~Stats
+return~Return
+stat_FL~First launch
+stat_TT~Total elapsed time (chrono)
+stat_TS~Total score
+stat_DT~Distance traveled
+stat_PS~Projectiles shooted
+stat_BD~Blocks destroyed
+stat_TD~Total damages
+stat_SD~Shields Destroyed
+stat_GF~Games failed
+stat_LC~Levels completed
+stat_D~Followers destroyed
+stat_diffGL~Games launched
+stat_diffW~Wins
+stat_diffBS~Best Score
+stat_diffBT~Best Time
+stat_diffBL~Best level
+stat_DL~Levels founded
+stat_CL~Levels completed
+victory~Congratulations !
+gameTime~Time
+levelTime~Time at the level
+gameScore~Score
+fps_adapt~Display Calculation
+only~only
+best~BEST
+howToPlay~How to play ?
+contact~For any question, opinion, or bug report
+rightClick~Right click to change difficulty
+locked~[Locked]
+end1~Yes... Yes... NO.
+end2~Pro tip : Survive
+end3~Ouch !
+end4~Come on ! Again !
+end5~These things hurt
+end6~What ?!
+end7~Nice try
+end8~Boom !
+end9~Looks like a Game Over
+end10~So close...
+end11~I'm afraid your journey ends here
+end12~Oops
+end13~At least you progressed
+end14~Nice try
+end15~Too bad
+end16~Skill issue
+#
+FR
+play~Jouer
+test~Test
+lvl_builder~Créateur de niveaux
+settings~Paramètres
+quit~Quitter
+loading~Chargement...
+mainmenu~Menu Principal
+continue~Continuer
+level~Niveau
+time~Temps :
+restart~Recommencer
+score~Score :
+lifes~Vies :
+challenge~Challenge
+s-challenge~X-CHALLENGE
+challenge_short~Chall. Classique
+s-challenge_short~Chall. Extreme
+diff~Difficulté
+hard~Avancé
+normal~Classique
+easy~Facile
+s-easy~Libre
+on~Activé
+off~Desactivé
+noborder~Désactivé (fenêtre sans bordures)
+fullscreen~Plein écran
+part_lvl~Niveau des particules
+winSize~Taille de l'écran
+auto~Auto
+default~Defaut
+globalvol~Volume Global
+soundvol~Répartition du volume
+language~Langue
+languageInfo~Vous avez besoin de redémarrer le jeu pour mettre à jour la langue
+graphInfo~Ce niveau est déconseillé, ces graphismes peuvent faire ralentir le jeu
+recommended~Conseillé
+ok~OK
+stats~Stats
+return~Retour
+stat_FL~Premier lancement
+stat_TT~Temps total écoulé (chrono)
+stat_TS~Score total gagné
+stat_DT~Distance parcourue
+stat_PS~Projectiles tirés
+stat_BD~Objets détruits
+stat_TD~Dégâts totaux
+stat_SD~Boucliers détruits
+stat_GF~Parties échouées
+stat_LC~Niveaux réussis
+stat_D~Followers détruits
+stat_diffGL~Parties lancées
+stat_diffW~Victoires
+stat_diffBS~Meilleur score
+stat_diffBT~Meilleur temps
+stat_diffBL~Plus haut niveau
+stat_DL~Niveaux trouvés
+stat_CL~Niveaux réussis
+victory~Felicitations !
+gameTime~Temps
+levelTime~Temps au niveau
+gameScore~Score
+fps_adapt~Calcul de l'affichage
+only~uniquement
+best~MEILLEUR
+howToPlay~Comment jouer ?
+contact~Pour toute question, avis ou signalisation de bug
+rightClick~Clic droit pour changer de difficulté
+locked~[Verouillé]
+end1~Conseil : Survivre
+end2~Game Over
+end3~C'est... la fin ?
+end4~Et... Non
+end5~Quoi ?!
+end6~Bien essayé
+end7~Terminus
+end8~Oups
+end9~Conseil : Survivre
+end10~Game Over
+end11~C'est... la fin ?
+end12~Et... Non
+end13~Conseil : Survivre
+end14~Quoi ?!
+end15~Bien essayé
+end16~Oups
